@@ -52,4 +52,3 @@ Développeuse **Full Stack** passionnée, diplômée en **Technologies de l'Info
 
 ## 📫 Contact
 - 📧 Email : nefzimalek2002@gmail.com 
-- 🌐 Portfolio : [Lien vers votre portfolio]
